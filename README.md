@@ -1,9 +1,16 @@
-
 # 🔋 Experimento do Eletroscópio 
 
 >Este projeto foi desenvolvido como parte do experimento de Física Geral III da **Universidade Federal Rural de Pernambuco (UFRPE)**. O objetivo do experimento foi construir um eletroscópio simples capaz de medir a carga elétrica aproximada de objetos carregados e, a partir disso, analisar os dados obtidos.
 
 <img src="src/assets/Experimento.jpg" alt="Imagem do experimento" width="400">
+
+## Ferramentas utilizadas
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib">
+</div>
 
 ## Cálculo
 O código utiliza uma fórmula deduzida a partir da **Lei de Coulomb** para calcular a carga elétrica acumulada no eletroscópio em função do ângulo de abertura das folhas de alumínio:
